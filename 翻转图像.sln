@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "翻转图像", "翻转图像\翻转图像.csproj", "{3ABED581-4898-4BF4-A1A0-B0AF0A05D56B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroMQServer", "ZeroMQServer\ZeroMQServer.csproj", "{3EA1AF7E-D825-49BC-903B-24D32CC27BF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABED581-4898-4BF4-A1A0-B0AF0A05D56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABED581-4898-4BF4-A1A0-B0AF0A05D56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABED581-4898-4BF4-A1A0-B0AF0A05D56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABED581-4898-4BF4-A1A0-B0AF0A05D56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA1AF7E-D825-49BC-903B-24D32CC27BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA1AF7E-D825-49BC-903B-24D32CC27BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA1AF7E-D825-49BC-903B-24D32CC27BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA1AF7E-D825-49BC-903B-24D32CC27BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C2FA937-3726-43D2-BECD-BC45C81DCA99}
+	EndGlobalSection
+EndGlobal
